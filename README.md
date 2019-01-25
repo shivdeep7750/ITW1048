@@ -1,2 +1,0 @@
-# ITW1048
-WEB project (QUIZARD)
